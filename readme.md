@@ -28,5 +28,5 @@ define(['a'],function(a){
        })
 
 ### 在main.js里面我们引入顺序
-'<script src='./require.js'></script>
-<script src='./main.js'></script>'
+'script src='./require.js'
+script src='./main.js''
