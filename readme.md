@@ -20,7 +20,7 @@ define(['a'],function(a){
   })
 
 
-     当我们引入的时候
+当我们引入的时候
      main.js
      require(['./a','./b'],function(a,b){
     然后在我们的require里面可以使用对应的a,b里面的方法
@@ -28,6 +28,5 @@ define(['a'],function(a){
        })
 
 ### 在main.js里面我们引入顺序
-`<script src='./require.js'></script>
-<script src='./main.js'></script>
-`
+'<script src='./require.js'></script>
+<script src='./main.js'></script>'
