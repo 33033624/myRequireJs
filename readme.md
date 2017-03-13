@@ -22,10 +22,7 @@
 
 当我们引入的时候
      main.js<br/>
-    require(['./a','./b'],function(a,b){
-    
-
-       })
+    require(['./a','./b'],function(a,b){    })
 
 ### 在main.js里面我们引入顺序
 'script src='./require.js'
